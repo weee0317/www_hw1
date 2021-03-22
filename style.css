@@ -141,11 +141,11 @@ table {
 .fixed-top {
     background-color: #333;
     padding: 5px;
-    height: 5%;
     display: block;
 }
 
 .return-home {
+    color: #fff;
     text-decoration: none;
     font-size: 15px;
     font-weight: bold;
@@ -161,7 +161,6 @@ table {
 
 
 .return-home-button {
-    color: #fff;
     background-color: #53a653;
     cursor: pointer;
     border: none;
@@ -171,13 +170,11 @@ table {
 }
 
 .return-home-button:hover {
-    color: #fff;
     background-color: #2d532d;
 }
 
 .web-body {
     display: block;
-    height: 95%;
 }
 
 .banner {
@@ -245,8 +242,6 @@ img:hover {
 
 .section {
     margin: 0px 250px 0px 250px;
-    /* margin-left: 15%;
-    margin-right: 15%; */
 }
 
 .homework-link {
@@ -281,11 +276,6 @@ img:hover {
     padding: 10px 35px 10px 35px;
     outline: none;
 }
-
-/* .hw-btn:visited {
-    color: #fff;
-    border: none;
-} */
 
 .btn-rotate:hover {
     -webkit-animation: spin13deg 1s linear infinite;
@@ -362,8 +352,8 @@ table {
     margin: auto;
     margin-top: 20px;
     border: 1px #f26200 solid;
-    width: 100%;
     table-layout: fixed;
+    width: 100%;
 }
 
 th {
