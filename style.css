@@ -263,6 +263,11 @@ img:hover {
     margin-top: 10px;
 }
 
+.homework-buttons {
+    display: flex;
+    justify-content: space-around;
+}
+
 .hw-btn {
     color: #fff;
     background-color: #f26200;
@@ -272,7 +277,7 @@ img:hover {
     cursor: pointer;
     border: none;
     border-radius: 20px;
-    margin: 20px 20px 0px 20px;
+    margin-top: 20px;
     padding: 10px 30px 10px 30px;
     outline: none;
 }
