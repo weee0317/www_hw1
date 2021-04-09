@@ -281,6 +281,13 @@ img:hover {
     padding: 10px 30px 10px 30px;
     outline: none;
 }
+.hw-link{
+    color: #fff;
+    text-decoration: none;
+}
+.hw-link:visited{
+    color: #fff;
+}
 
 .btn-rotate:hover {
     -webkit-animation: spin13deg 1s linear infinite;
