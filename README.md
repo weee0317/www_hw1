@@ -21,3 +21,6 @@ Homework 4,5：顏色變深
 
 ### Course Timetable
 此課表當鼠標經過，所經過的格子會變色
+
+### Footer
+在正中間宣告智慧財產權
