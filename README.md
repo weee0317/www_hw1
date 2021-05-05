@@ -3,10 +3,10 @@ http://wwweb.csie.io:2010/hw1/index.html
 
 ## 個人portfolio web page
 ### Header
-在Header左側實作Return Home Button，此button會連結到課程網站，當鼠標經過會變色
+在Header左側實作Return Home Button，此button會連結到課程網站，且當鼠標經過會變色
 
 ### Banner
-使用大寫 portfolio 置中
+將大寫 "portfolio" 字樣置中
 
 ### Personal Information
 將個人照片置中且以圓形呈現，當鼠標經過時照片會順時鐘轉360度。
